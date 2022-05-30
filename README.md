@@ -18,10 +18,10 @@ This application is made for the maintenance crew in so that they can easily tra
 * `Config.php` Holds the necessary informations for the MySQL db
 * `DB_Connect` Connects to the db
 * `DB_Functions` necessary functins that are used at the api endpoints:
-  * login.php
-  * register.php
-  * tasksForUser.php
-  * users.php
+  * login.php needs a username and password with POST method
+  * register.php needs username and password with POST method
+  * tasksForUser.php needs an user_id with POST method
+  * users.php just a simple GET method to get users 
 
 ### Android
 
