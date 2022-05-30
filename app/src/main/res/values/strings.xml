@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Beadando</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="welcome">Welcome</string>
+    <string name="menu">Menu</string>
+    <string name="today_s_tasks">Today\'s Tasks</string>
+    <string name="demo">Demo</string>
+    <string name="save">save</string>
+    <string name="delete">Delete</string>
+    <string name="edit_task_menu">Edit Task Menu</string>
+    <string name="currently_doing_the_task">Currently doing the task</string>
+    <string name="done_with_the_task">Done with the task</string>
+    <string name="done">Done</string>
+    <string name="accept_task">Accept Task</string>
+    <string name="date">date</string>
+    <string name="description">Description</string>
+    <string name="refresh_button">refresh button</string>
+    <string name="accept">accept</string>
+</resources>

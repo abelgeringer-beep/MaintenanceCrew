@@ -1,0 +1,40 @@
+{
+    "project_info": {
+        "project_number": "406025949256",
+        "firebase_url": "https://beadando-c743c-default-rtdb.europe-west1.firebasedatabase.app",
+        "project_id": "beadando-c743c",
+        "storage_bucket": "beadando-c743c.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:406025949256:android:c20d1705fd7775cbc2c87d",
+                "android_client_info": {
+                    "package_name": "com.example.beadando"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "406025949256-8crhg2fu1j8frqs5563i2hcvklcpq0ir.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyBSlnRCBlJ2WDTOCUihaq6hSZA9ni1W8-A"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "406025949256-8crhg2fu1j8frqs5563i2hcvklcpq0ir.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}

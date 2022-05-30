@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Egyetem/Rendszerfejlesztes/Beadando/mobil/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Egyetem/Rendszerfejlesztes/Beadando/mobil/app/src/main/res/layout/activity_main_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Egyetem/Rendszerfejlesztes/Beadando/mobil/app/src/main/res/layout/task.xml" value="0.26458333333333334" />
+        <entry key="..\:/Egyetem/Rendszerfejlesztes/Beadando/mobil/app/src/main/res/layout/taskpopupwindow.xml" value="0.36666666666666664" />
+        <entry key="..\:/Egyetem/Rendszerfejlesztes/beadando/mobil/app/src/main/res/drawable/ic_pending.xml" value="0.196" />
+        <entry key="..\:/Egyetem/Rendszerfejlesztes/beadando/mobil/app/src/main/res/layout/activity_main_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Egyetem/Rendszerfejlesztes/beadando/mobil/app/src/main/res/layout/task.xml" value="0.36666666666666664" />
+        <entry key="..\:/Egyetem/Rendszerfejlesztes/beadando/mobil/app/src/main/res/layout/taskpopupwindow.xml" value="0.36666666666666664" />
+        <entry key="..\:/Egyetem/Xampp/htdocs/beadando/mobil/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Egyetem/Xampp/htdocs/beadando/mobil/app/src/main/res/layout/taskpopupwindow.xml" value="0.36666666666666664" />
+        <entry key="..\:/Egyetem/Xampp/htdocs/beadando/mobil/app/src/main/res/xml/network_security_config.xml" value="0.23802083333333332" />
+        <entry key="..\:/Egyetem/beadando/beadando/mobil/app/src/main/res/drawable/ic_done.xml" value="0.323" />
+        <entry key="..\:/Egyetem/beadando/beadando/mobil/app/src/main/res/drawable/ic_pending.xml" value="0.2275" />
+        <entry key="..\:/Egyetem/beadando/beadando/mobil/app/src/main/res/drawable/ic_refresh.xml" value="0.323" />
+        <entry key="..\:/Egyetem/beadando/beadando/mobil/app/src/main/res/layout/activity_main_menu.xml" value="0.33" />
+        <entry key="..\:/Egyetem/beadando/beadando/mobil/app/src/main/res/layout/task.xml" value="0.29347826086956524" />
+        <entry key="..\:/Egyetem/beadando/beadando/mobil/app/src/main/res/layout/taskpopupwindow.xml" value="0.3663949275362319" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
